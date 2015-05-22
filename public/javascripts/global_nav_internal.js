@@ -31,7 +31,6 @@ ul.extension_global_nav li a:hover {color: #fff;}\
     <ul>\
       <li><a href="http://collaborate.extension.org/wiki/" title="A wiki for Extension professionals to collaborate on topics of interest.">Collaborate</a></li>\
       <li><a href="http://create.extension.org/" title="A collaborative development of resources about the eXtension initiative: news, governance, and projects.">Create</a></li>\
-      <li><a href="https://data.extension.org/" title="Aggregated data from eXtension\'s websites and services.">Data</a></li>\
       <li><a href="https://people.extension.org/" title="Manage your eXtension profile, find colleagues, create and join communities.">People</a></li>\
     </ul>\
   </li>\
