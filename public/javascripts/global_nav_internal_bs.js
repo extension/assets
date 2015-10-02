@@ -6,7 +6,6 @@ var globalNav = '<ul class="nav navbar-nav">\
       <li><a href="http://www.extension.org" title="A broad range of content from a network of experts at universities across America.">eXtension.org</a></li>\
       <li><a href="https://learn.extension.org/" title="Professional development sessions on a variety of Extension topics.">Learn</a></li>\
       <li><a href="https://search.extension.org" title="One search from hundreds of Cooperative Extension sites.">Search</a></li>\
-      <li><a href="http://collaborate.extension.org/wiki/" title="A wiki for Extension professionals to collaborate on topics of interest.">Collaborate</a></li>\
       <li><a href="http://create.extension.org/" title="A collaborative development of resources about the eXtension initiative: news, governance, and projects.">Create</a></li>\
       <li><a href="https://people.extension.org/" title="Manage your eXtension profile, find colleagues, create and join communities.">People</a></li>\
 </ul>';
