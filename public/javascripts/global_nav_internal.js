@@ -18,10 +18,10 @@ ul.extension_global_nav li a:hover {color: #fff;}\
 <ul class="extension_global_nav internal_nav">\
   <li class="group"><span>Public sites</span>\
     <ul>\
-      <li><a href="http://about.extension.org" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
+      <li><a href="https://extension.org/" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
       <li><a href="https://ask.extension.org" title="One-to-one answers from a network of experts at universities across America.">Ask an Expert</a></li>\
       <li><a href="http://campus.extension.org/ " title="Online courses developed by Cooperative Extension and available to anyone.">Campus</a></li>\
-      <li><a href="http://www.extension.org/" title="A starting place for all things eXtension.">Resources</a></li>\
+      <li><a href="http://articles.extension.org/" title="Issues. Innovation. Impact.">Resources</a></li>\
       <li><a href="https://learn.extension.org/" title="Professional development sessions on a variety of Extension topics.">Learn</a></li>\
       <li><a href="https://search.extension.org" title="One search from hundreds of Cooperative Extension sites.">Search</a></li>\
     </ul>\
