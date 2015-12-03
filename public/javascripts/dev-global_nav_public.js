@@ -11,10 +11,14 @@ ul.extension_global_nav li {display:inline; padding:0;}\
 ul.extension_global_nav .last {border:0;}\
 ul.extension_global_nav li a {padding:.2em .5em; color:#999; text-decoration: none;}\
 ul.extension_global_nav li a:hover {color: #fff;}\
+.global_announcement {background: #81858b; color: #ccc; padding:5px 1em 5px; margin: 0; text-align:center; font-size:13px;}\
+.global_announcement p {margin:0;}\
+.global_announcement a {color: #ddd;font-weight:normal;}\
 </style>\
 \
 \
 \
+<div class="global_announcement"><p><a href="https://extension.org/extension-i-three-event-2016/?utm_source=web&utm_medium=global_banner&utm_campaign=ithree_event">Coming March 2016...eXtension i-Three Event...San Antonio</a></p></div>\
 <ul class="extension_global_nav public_nav noprint">\
   <li class="nav-name">shortcuts:</li>\
   <li><a href="https://extension.org/" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
