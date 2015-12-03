@@ -17,6 +17,7 @@ ul.extension_global_nav li a:hover {color: #fff;}\
 \
 \
 \
+<div class="global_announcement"><p><a href="https://extension.org/extension-i-three-event-2016/?utm_source=web&utm_medium=global_banner&utm_campaign=ithree_event">Coming March 2016...eXtension i-Three Event...San Antonio</a></p></div>\
 <ul class="extension_global_nav internal_nav">\
   <li class="group"><span>Public sites</span>\
     <ul>\
@@ -34,10 +35,7 @@ ul.extension_global_nav li a:hover {color: #fff;}\
       <li><a href="https://people.extension.org/" title="Manage your eXtension profile, find colleagues, create and join communities.">People</a></li>\
     </ul>\
   </li>\
-</ul>\
-\
-\
-<div class="global_announcement"><p><a href="https://extension.org/extension-i-three-event-2016/?utm_source=web&utm_medium=global_banner&utm_campaign=ithree_event">Coming March 2016...eXtension i-Three Event...San Antonio</a></p></div>';
+</ul>';
 (function() {
     document.write(globalNav);
 })();
