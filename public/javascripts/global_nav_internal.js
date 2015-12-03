@@ -11,8 +11,9 @@ ul.extension_global_nav li {display:inline; padding:0;}\
 ul.extension_global_nav .last {border:0;}\
 ul.extension_global_nav li a {padding:.2em .5em; color:#999; text-decoration: none;}\
 ul.extension_global_nav li a:hover {color: #fff;}\
-.global_announcement {background: #f5f5f5; color: #888; padding:.55em 1em .1em; margin: 0; text-align:center; font-size:14px;}\
-.global_announcement a {color: #f47B28;font-weight:normal;}\
+.global_announcement {background: #81858b; color: #ccc; padding:5px 1em 5px; margin: 0; text-align:center; font-size:13px;}\
+.global_announcement p {margin:0;}\
+.global_announcement a {color: #ddd;font-weight:normal;}\
 </style>\
 \
 \
