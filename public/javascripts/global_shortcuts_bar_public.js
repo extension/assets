@@ -1,6 +1,6 @@
 var globalNav = '<style media="screen" type="text/css">\
 body {margin:0;}\
-ul.extension_global_nav {text-align:right; margin:0; padding:.25em 0 .35em; background:#000;}\
+ul.extension_global_nav {text-align:right; margin:0; padding:.25em 12px .35em; background:#C2C6CC;}\
 ul.extension_global_nav li {font: normal 13px/20px \'Helvetica Neue\', Helvetica, Arial, sans-serif; display:inline; padding:0;}\
 ul.extension_global_nav li a {padding:.2em .5em; color:#5A6782; text-decoration: none;}\
 ul.extension_global_nav li a:hover {color: #1A294A;}\
