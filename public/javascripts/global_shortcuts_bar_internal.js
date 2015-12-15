@@ -8,6 +8,7 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
 .global_announcement {background: #81858b; color: #ccc; padding:5px 1em 5px; margin: 0; text-align:center; font: normal 13px/20px \'Helvetica Neue\', Helvetica, Arial, sans-serif;}\
 .global_announcement p {margin:0;}\
 .global_announcement a {color: #ddd; font-weight:normal; text-decoration: none;}\
+.sriracha {}\
 @media screen and (max-width: 767px) {\
   ul.extension_global_nav > li {text-align:left; display:block;}\
   ul.extension_global_nav > li > a {padding: 11px 5px !important; display:block;}\

@@ -8,6 +8,7 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
 .global_announcement {background: #81858b; color: #ccc; padding:5px 1em 5px; margin: 0; text-align:center; font: normal 13px/20px \'Helvetica Neue\', Helvetica, Arial, sans-serif;}\
 .global_announcement p {margin:0;}\
 .global_announcement a {color: #ddd; font-weight:normal; text-decoration: none;}\
+.sriracha {}\
 </style>\
 \
 <div class="global_announcement"><p><a href="https://extension.org/extension-i-three-event-2016/?utm_source=web&utm_medium=global_banner&utm_campaign=ithree_event">Coming March 2016...eXtension i-Three Event...San Antonio</a></p></div>\
