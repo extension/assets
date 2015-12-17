@@ -11,7 +11,7 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
 .sriracha {}\
 </style>\
 \
-<div class="global_announcement"><p><a href="https://extension.org/extension-i-three-event-2016/?utm_source=web&utm_medium=global_banner&utm_campaign=ithree_event">Coming March 2016...eXtension i-Three Event...San Antonio</a></p></div>\
+<div class="global_announcement"><p><a href="https://extension.org/2015/12/16/proposals-now-due-january-3-2016/?utm_source=web&utm_medium=global_banner&utm_campaign=ithree_event">Coming March 2016...eXtension i-Three Event...San Antonio... Deadline for proposals extended til January 3</a></p></div>\
 <ul class="extension_global_nav public_nav noprint">\
   <li class="nav-name">shortcuts:</li>\
   <li><a href="https://extension.org/" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
