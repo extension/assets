@@ -9,7 +9,10 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
 .global_announcement p {margin:0;}\
 .global_announcement a {color: #ddd; font-weight:normal; text-decoration: none;}\
 .sriracha {}\
-</style>\
+@media screen and (max-width: 767px) {\
+  ul.extension_global_nav > li {text-align:left; display:block;}\
+  ul.extension_global_nav > li > a {padding: 11px 5px !important; display:block;}\
+}</style>\
 \
 <div class="global_announcement"><p><a href="https://extension.org/feedback/">We invite you to provide feedback on the National eXtension Conference which took place March 22-25 in San Antonio</a></p></div>\
 <ul class="extension_global_nav public_nav noprint">\
