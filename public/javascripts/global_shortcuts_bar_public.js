@@ -14,7 +14,7 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
   ul.extension_global_nav > li > a {padding: 11px 5px !important; display:block;}\
 }</style>\
 \
-<div class="global_announcement"><p><a href="https://learn.extension.org/events/2621">View May 4 Webinar on Emerging Opportunities for Extension Professionals</a></p></div>\
+<div class="global_announcement"><p><a href="https://learn.extension.org/events/2683">Join June 16 NAEPDSP Webinar Update on i-Three Issue Corps Projects</a></p></div>\
 <ul class="extension_global_nav public_nav noprint">\
   <li class="nav-name">shortcuts:</li>\
   <li><a href="https://extension.org/" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
