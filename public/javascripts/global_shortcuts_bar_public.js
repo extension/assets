@@ -14,7 +14,6 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
   ul.extension_global_nav > li > a {padding: 11px 5px !important; display:block;}\
 }</style>\
 \
-<div class="global_announcement"><p><a href="https://learn.extension.org/events/2696">Join us for eXtension\'s Quarterly Update Webinar on July 27</a></p></div>\
 <ul class="extension_global_nav public_nav noprint">\
   <li class="nav-name">shortcuts:</li>\
   <li><a href="https://extension.org/" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
