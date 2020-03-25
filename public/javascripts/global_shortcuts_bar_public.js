@@ -21,7 +21,7 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
   <li><a href="http://campus.extension.org/" title="Online courses developed by Cooperative Extension and available to anyone.">Campus</a></li>\
   <li><a href="https://catalog.extension.org/" title="A storefront or clearinghouse of educational offerings available through Extension.">Catalog</a></li>\
   <li><a href="https://impact.extension.org/national-extension-projects/" title="Issues. Innovation. Impact.">Resources</a></li>\
-  <li><a href="https://connect.extension.org/" title="Professional development sessions on a variety of Extension topics.">Learn</a></li>\
+  <li><a href="https://connect.extension.org/" title="Professional development sessions on a variety of Extension topics.">Learn/Connect</a></li>\
   <li><a href="https://impact.extension.org/search/" title="One search from hundreds of Cooperative Extension sites.">Search</a></li>\
 </ul>';
 (function() {
