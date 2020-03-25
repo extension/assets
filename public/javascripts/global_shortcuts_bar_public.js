@@ -16,13 +16,13 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
 \
 <ul class="extension_global_nav public_nav noprint">\
   <li class="nav-name">shortcuts:</li>\
-  <li><a href="https://extension.org/" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
+  <li><a href="https://impact.extension.org/" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
   <li><a href="https://ask.extension.org" title="One-to-one answers from a network of experts at universities across America.">Ask an Expert</a></li>\
   <li><a href="http://campus.extension.org/" title="Online courses developed by Cooperative Extension and available to anyone.">Campus</a></li>\
   <li><a href="https://catalog.extension.org/" title="A storefront or clearinghouse of educational offerings available through Extension.">Catalog</a></li>\
   <li><a href="https://impact.extension.org/national-extension-projects/" title="Issues. Innovation. Impact.">Resources</a></li>\
-  <li><a href="https://learn.extension.org/" title="Professional development sessions on a variety of Extension topics.">Learn</a></li>\
-  <li><a href="https://search.extension.org" title="One search from hundreds of Cooperative Extension sites.">Search</a></li>\
+  <li><a href="https://connect.extension.org/" title="Professional development sessions on a variety of Extension topics.">Learn</a></li>\
+  <li><a href="https://impact.extension.org/search/" title="One search from hundreds of Cooperative Extension sites.">Search</a></li>\
 </ul>';
 (function() {
     document.write(globalNav);
