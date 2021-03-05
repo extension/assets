@@ -16,7 +16,7 @@ ul.extension_global_nav .nav-name {color:#555; font-weight:bold;}\
 \
 <ul class="extension_global_nav public_nav noprint">\
   <li class="nav-name">shortcuts:</li>\
-  <li><a href="https://impact.extension.org/" title="eXtension - For Extension Professionals and the Public They Serve">eXtension.org</a></li>\
+  <li><a href="https://impact.extension.org/" title="Extension Foundation - For Extension Professionals and the Public They Serve">extension.org</a></li>\
   <li><a href="https://ask2.extension.org" title="One-to-one answers from a network of experts at universities across America.">Ask Extension</a></li>\
   <li><a href="http://campus.extension.org/" title="Online courses developed by Cooperative Extension and available to anyone.">Campus</a></li>\
   <li><a href="https://catalog.extension.org/" title="A storefront or clearinghouse of educational offerings available through Extension.">Catalog</a></li>\
